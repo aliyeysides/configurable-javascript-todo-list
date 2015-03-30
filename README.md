@@ -6,7 +6,7 @@ The purpose of this script is to create a bare bones todo list with easy configu
 
 The default config object has the following values:
 
-```
+```javascript
 var config = {
 	listId: "todo-list",
 	textBoxId: "textBox",
