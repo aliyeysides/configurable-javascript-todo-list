@@ -1,5 +1,5 @@
 # configurable-javascript-todo-list
-a flexible javascript todo list that let's you configure your class names and add functionality to exsisting elements.
+a flexible javascript todo list that let's you configure your class names and add functionality to existing elements.
 
 ## Config Object
 The purpose of this script is to create a bare bones todo list with easy configuration. A config object becomes passed into the main function which allows for easy setup of class and id names along with document writing permissions.
