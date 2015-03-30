@@ -19,6 +19,21 @@ var config = {
 }
 ```
 
+### listId
+Specify which element on the document will house the todo list elements when created.
+
+### textBoxId
+Specify which element on the document will be the input text field for the todo list items.
+
+### addButtonId
+Specify which element on the document will become the add button for the todo list.
+
+### deleteLinkClass | editLinkClass | saveButtonClass | listItemValueClass
+1. deleteLinkClass: the class name for all delete links
+2. editLinkClass: the class name for all edit links
+3. saveButtonClass: the class name for all save buttons
+4. listItemValueClass: the class name for all todo list item values
+
 ### createFormHTML
 When set to true, the script will write the todo list form onto the document. If set to false, you must create your own html elements.
 
