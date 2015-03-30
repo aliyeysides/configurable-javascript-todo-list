@@ -35,5 +35,5 @@ Specify which element on the document will become the add button for the todo li
 4. listItemValueClass: the class name for all todo list item values
 
 ### createFormHTML
-When set to true, the script will write the todo list form onto the document. If set to false, you must create your own html elements.
+When set to true, the script will write the todo list form onto the document. If set to false, you must create your own html elements and assign their id name in the config object.
 
